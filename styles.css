@@ -1,0 +1,85 @@
+h1{
+    font-weight: bolder;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: center;
+text-shadow: 100px;
+}
+
+body{
+    background-color: #fff0f3 ;
+}
+.image-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+.bordered-image{
+ border: 5px solid black; 
+ border-radius: 5px;
+ margin: 0 10px;
+ max-width: 250px;
+}
+
+
+.list{
+    margin-top: 50px;
+    margin-left: 600px;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.bindery{
+    font-style: italic;
+    font-weight: lighter;
+   
+}
+.list2{
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    
+}
+.involvements{
+    font-style: italic;
+    font-weight: lighter;
+}
+.Professional{
+    text-align: center;
+    margin-top: 5px;
+
+}
+.video{
+    display: flex;
+    justify-content: right;
+}
+.font-size{
+    font-size: larger;
+
+}
+.bottom-flowers{
+    display: flex;
+    justify-content: center;
+}
+.Resume{
+font-size: larger;
+font-style: italic;
+margin-left: 675px;
+}
+.video{
+    justify-content: center;
+  
+}
+.tableauPlaceholder{
+    display: flex;
+    text-align: center;
+    margin-top: 25px;
+}
+.common-bottom{
+    text-align: center;
+    font-size: larger;
+}
+.FAVORITE{
+    text-align: center;
+}
+.tableau{
+    text-align: center;
+}
